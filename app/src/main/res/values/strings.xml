@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CSS Delivery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_order_detail">Order detail</string>
+    <string name="hello_stats">This is stats</string>
+    <string name="orders">Orders</string>
+    <string name="stats">Order Stats</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="change_history">Order Change History</string>
+    <string name="price_template">$%1$.2f</string>
+    <string name="changelog_template">%1s changed from %2s to %3s</string>
+    <string name="average_template" tools:ignore="PluralsCandidate">$%1$d minutes $%2d seconds</string>
+    <string name="shelf">shelf</string>
+    <string name="state">state</string>
+    <string name="timestamp_changed">Time Updated</string>
+    <string name="last_updated_prefix">"Last updated: "</string>
+    <string name="customer_prefix">"Customer: %s"</string>
+    <string name="orders_delivered_label">Orders delivered:</string>
+    <string name="orders_trashed_label">Orders Trashed:</string>
+    <string name="trashed_loss_label">Loss from trashed:</string>
+    <string name="total_revenue_label">Total Revenue:</string>
+    <string name="delivered_amount_label">Revenue from delivered:</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="order_statistics">Order Statistics Live</string>
+    <string name="orders_snapshot">Order List</string>
+    <string name="kitchen_not_open">Kitchen is closed</string>
+    <string name="server_is_down">Server is down</string>
+    <string name="retry">Retry</string>
+    <string name="order_created_history">Order created</string>
+    <string name="not_available">N/A</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="address">Network address (Address:Port)</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="network_config">Network Configuration</string>
+    <string name="settings">Settings</string>
+</resources>
